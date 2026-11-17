@@ -23,9 +23,9 @@ Economics & Finance at Bilkent ('27). I take financial and economic mechanisms a
 | [Orontes Sourcing](https://orontes-sourcing.vercel.app) | Industrial spare parts sourcing for food manufacturers | Next.js, TypeScript, Tailwind |
 
 ## Stack
-**Languages** — Python, TypeScript, SQL, Stata
+**Languages** — Python, TypeScript, SQL, Stata  
 **Data / ML** — pandas, NumPy, scikit-learn, LightGBM
-**Finance** — Black-Scholes, Monte Carlo, DCF, three-statement models, GARCH, DiD / IV
+**Finance** — Black-Scholes, Monte Carlo, DCF, three-statement models, GARCH, DiD / IV  
 **Web** — Next.js, React, Tailwind, Postgres, Drizzle
 
 ---
