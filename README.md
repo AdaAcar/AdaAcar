@@ -1,7 +1,7 @@
 <img src="assets/banner.png" alt="Economics & Finance @ Bilkent. Building Orontes Sourcing. Finance, econometrics, ML & AI, applied mathematics." width="100%">
 
 # Ada Acar
-Economics & Finance at Bilkent ('27). I'm building **Orontes Sourcing**, industrial spare parts for food manufacturers in the Middle East, and the models that tell it where to go next. Skier and sailor; most of my thinking happens on a slope or a Hobie 16.
+Economics & Finance at Bilkent ('27). I'm building **Orontes Sourcing**, industrial sourcing for manufacturers across the Middle East and North Africa, and the models that tell it where to go next. Skier and sailor; most of my thinking happens on a slope or a Hobie 16.
 
 - Site — [adaacar.boats](https://adaacar.boats)
 - Orontes — [orontes-sourcing.vercel.app](https://orontes-sourcing.vercel.app)
@@ -9,7 +9,7 @@ Economics & Finance at Bilkent ('27). I'm building **Orontes Sourcing**, industr
 - Email — ada.acar25 [at] gmail [dot] com
 
 ## Heading
-- **Orontes:** sourcing on demand for Syrian, Iraqi and Jordanian food plants, run from one Next.js app
+- **Orontes:** industrial parts and machinery sourced on demand for manufacturers in the Levant and North Africa
 - **Where to sell next:** LightGBM on CEPII trade data, priced with the Orontes commission model
 - **Research:** when to restrain AI adoption, a dynamic optimization model with labor share as a state
 - **Desk:** options pricing, Greeks and vol surfaces on VIOP, from Black-Scholes to Monte Carlo
